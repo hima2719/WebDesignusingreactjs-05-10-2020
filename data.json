@@ -1,0 +1,28 @@
+{
+ "details":{
+      "name":"y.Hima",
+      "email":"yhima27396@gmail.com",
+      "mobile":99999999999,
+      "hobbies":["music","dancing","skating"]
+ },
+"Friends":[
+{
+"name":"Alekhya",
+"email":"akki76@gmail.com",
+"Number":66666666666,
+"hobbies":["playing chess","playing cricket","reading books"]
+},
+{
+"name":"Devasri",
+"email":"deva1597@gmail.com",
+"Number":66666666666,
+"hobbies":["playing chess","playing cricket","reading books"]
+},
+{
+"name":"Anjali",
+"email":"anjali67@gmail.com",
+"Number":66666666666,
+"hobbies":["playing chess","playing cricket","reading books"]
+}
+ ]
+}
